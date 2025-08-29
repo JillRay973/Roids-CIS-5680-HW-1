@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jilli\\Cis5680\\Roids\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|c:\\users\\jilli\\cis5680\\roids\\assets\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|solutionrelative:assets\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|c:\\users\\jilli\\cis5680\\roids\\assets\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|solutionrelative:assets\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|C:\\Users\\jilli\\Cis5680\\Roids\\assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|solutionrelative:assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|C:\\Users\\jilli\\Cis5680\\Roids\\assets\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|solutionrelative:assets\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|C:\\Users\\jilli\\Cis5680\\Roids\\assets\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD04E10B-0560-DF99-7B32-65F088063C46}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\ScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreUI.cs",
+              "ToolTip": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\ScoreUI.cs",
+              "RelativeToolTip": "Assets\\ScoreUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:17:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Global.cs",
+              "RelativeDocumentMoniker": "Assets\\Global.cs",
+              "ToolTip": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Global.cs",
+              "RelativeToolTip": "Assets\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:58:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Asteroid.cs",
+              "ToolTip": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Asteroid.cs",
+              "RelativeToolTip": "Assets\\Asteroid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:18:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletScript.cs",
+              "DocumentMoniker": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\BulletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BulletScript.cs",
+              "ToolTip": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\BulletScript.cs",
+              "RelativeToolTip": "Assets\\BulletScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:48:19.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Ship.cs",
+              "RelativeDocumentMoniker": "Assets\\Ship.cs",
+              "ToolTip": "C:\\Users\\jilli\\Cis5680\\Roids\\Assets\\Ship.cs",
+              "RelativeToolTip": "Assets\\Ship.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:39:09.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
